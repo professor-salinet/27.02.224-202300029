@@ -14,3 +14,5 @@ if (x == y){
     console.log("Números Divergem!");
 // a linha abaixo encerra o bloco ELSE
 }
+
+// todos os comentários acima foram digitados sem auxílio do chatgpt
